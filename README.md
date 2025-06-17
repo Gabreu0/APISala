@@ -1,4 +1,4 @@
-# ProjetoAPSarqSoftware
+# APISala
 
 API RESTful desenvolvida com Node.js, Express e MongoDB, simulando um backend para gerenciamento de usuários, autores e postagens.
 
