@@ -141,9 +141,3 @@ Autenticação com JWT
 Padrão Repository
 
 Código modular e organizado
-
-Contexto Acadêmico
-Projeto desenvolvido na disciplina de Arquitetura de Software, no 7º período do curso de Engenharia de Software da Faculdade UNISENAI, campus São José dos Pinhais, em 2025.
-
-Licença
-Projeto acadêmico, distribuído apenas para fins educacionais.
